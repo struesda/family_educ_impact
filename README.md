@@ -11,6 +11,7 @@ Data to be used:
 
 What do I know about the data so far?
 - I have reviewed the Data File Users Manual - including the survey questions, and have noted some questions of interest.
+- I have done an initial review of the data file - but not done any parsing of the data.
 
 Why did I choose this topic?
 - I have been working in the education sector for 25 years and am interested in education outcomes.  As a parent who has chosen
